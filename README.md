@@ -56,7 +56,6 @@ PMI-Certified | Data Science & MLOps Enthusiast
 
 You can test the model yourself via this interactive Streamlit app:
 
-👉 [🌸 Iris Classifier (Decision Tree) - Open App](https://fictional-disco-4j6jw656rnvqh7gw5-8501.app.github.dev/)
+👉 [🌸 Iris Classifier (Decision Tree) – Open App](https://fictional-disco-4j6jw656rnvqh7gw5-8501.app.github.dev/)
 
 *Built using Streamlit & DecisionTreeClassifier. Hosted via GitHub Codespaces.*
-
