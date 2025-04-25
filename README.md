@@ -1,3 +1,9 @@
+![Built With Python](https://img.shields.io/badge/Built%20with-Python%203.10-blue?logo=python&logoColor=white)
+![Streamlit App](https://img.shields.io/badge/Live-App-green?logo=streamlit)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/bikramtheitguy/mlops-clearml-demo?style=flat&color=blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/bikramtheitguy/mlops-clearml-demo)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 # 🧠 Iris Classification with ClearML (MLOps Demo)
 
 This project demonstrates how to train ML models (Random Forest & Decision Tree) on the classic Iris dataset and track their performance using [ClearML](https://clear.ml).
