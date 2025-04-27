@@ -4,6 +4,10 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/bikramtheitguy/mlops-clearml-demo)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
+<div align="center">
+  <img src="assets/mlops-demo-banner.png" alt="MLOps Demo Project Banner" style="width:100%;max-width:800px;">
+</div>
+
 # 🧠 Iris Classification with ClearML (MLOps Demo)
 
 This project demonstrates how to train ML models (Random Forest & Decision Tree) on the classic Iris dataset and track their performance using [ClearML](https://clear.ml).
